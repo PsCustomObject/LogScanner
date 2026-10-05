@@ -1,0 +1,9 @@
+[10/05/2026 10:18:49 PM] - [INFO]: Application started
+[10/05/2026 10:18:49 PM] - [INFO]: Processing item [42]: example
+[10/05/2026 10:18:49 PM] - [WARNING]: Connection timeout; retrying
+[10/05/2026 10:18:49 PM] - [ERROR]: Connection refused
+[10/05/2026 10:18:49 PM] - [ERROR]: Operation failed
+[10/05/2026 10:18:49 PM] - [ERROR]: Details: server unavailable
+[10/05/2026 10:18:49 PM] - [ERROR]: Retry exhausted
+[10/05/2026 10:18:49 PM] - [INFO]: Application finished
+[10/05/2026 10:18:49 PM] - Entry without a severity tag
