@@ -41,11 +41,11 @@ Download the executable for your operating system and CPU architecture. No runti
 
 **Availability:** these links become active once the first release is published. Until then, build from source below.
 
-| Platform | Intel / AMD (amd64) | ARM64 |
-| --- | --- | --- |
-| Windows | [Download .exe](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-windows-amd64.exe) | [Download .exe](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-windows-arm64.exe) |
-| Linux | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-linux-amd64) | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-linux-arm64) |
-| macOS | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-macos-amd64) | [Download for Apple Silicon](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-macos-arm64) |
+| Platform | Intel / AMD (amd64)                                                                                                 | ARM64                                                                                                                      |
+|----------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Windows  | No build yet| No build yet        |
+| Linux    | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-linux-amd64)            | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-linux-arm64)                   |
+| macOS    | [Download](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-macos-amd64)            | [Download for Apple Silicon](https://github.com/PsCustomObject/LogScanner/releases/latest/download/logscanner-macos-arm64) |
 
 [All releases](https://github.com/PsCustomObject/LogScanner/releases) · [SHA-256 checksums](https://github.com/PsCustomObject/LogScanner/releases/latest/download/SHA256SUMS.txt)
 
