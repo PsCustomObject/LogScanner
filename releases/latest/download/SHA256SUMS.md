@@ -1,5 +1,5 @@
-# Latest release SHA256sum
+# SHA256 LogScanner Checksums
 
-| Platform  | sha256sum                                                        |
-|-----------|------------------------------------------------------------------|
-| Linux X64 | 2928246febc3c64e0eb40264d513835d4cfce8de67f2efdf569aa50b54343db6 |
+| Platform     | SHA256 Checksum                                                  |
+|--------------|------------------------------------------------------------------|
+| Linux AMDx64 | 78cc41d62ce3bdbed6b3a601c2fd57eb3b7828622d067e27af06d3e82b6d524b |
